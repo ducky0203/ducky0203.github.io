@@ -1,0 +1,9 @@
+{
+  "androidVersion": "20.10.28",
+  "androidCode": 201028,
+  "apkUrl": "https://github.com/ducky0203/ducky0203.github.io/blob/master/tngoffice_dev.apk?raw=true",
+  "iosVersion": "20.10.28",
+  "iosBuild": 201028,
+  "ipaUrl": "https://raw.githubusercontent.com/ducky0203/ducky0203.github.io/master/manifest.plist",
+  "description": "- Thêm mục QL xe ra vào\n- Sửa lỗi báo cáo"
+}
