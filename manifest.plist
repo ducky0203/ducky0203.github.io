@@ -31,13 +31,13 @@
 				<key>bundle-identifier</key>
 				<string>vn.tng.office.dev</string>
 				<key>bundle-version</key>
-				<string>20.10.28</string>
+				<string>20.12.17</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>TNGOffice - DEV</string>
+				<string>TNGOffice</string>
 			</dict>
 		</dict>
 	</array>
