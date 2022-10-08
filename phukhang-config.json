@@ -1,0 +1,8 @@
+{
+  "androidVersion": 20221008,
+  "iosVersion": 20221008,
+  "apkUrl": "https://raw.githubusercontent.com/harrybui2804/tngapp/master/productivity/android.apk",
+  "iosUrl": "https://raw.githubusercontent.com/harrybui2804/tngapp/master/productivity/manifest.plist",
+  "forceUpdate": true,
+  "description": "- Cấp BTP theo màu | cỡ"
+}
