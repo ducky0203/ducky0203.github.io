@@ -29,15 +29,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>vn.tng.office.dev</string>
+				<string>com.phukhang.appcbc</string>
 				<key>bundle-version</key>
-				<string>20.12.17</string>
+				<string>22.10.10</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>TNGOffice</string>
+				<string>PK CBC</string>
 			</dict>
 		</dict>
 	</array>
