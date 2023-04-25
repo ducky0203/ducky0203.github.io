@@ -11,33 +11,33 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/ducky0203/ducky0203.github.io/raw/master/dev.ipa</string>
+					<string>https://github.com/ducky0203/ducky0203.github.io/raw/master/GomDatViet.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://ducky0203.github.io/install_ios.png</string>
+					<string>https://raw.githubusercontent.com/ducky0203/ducky0203.github.io/master/install_ios.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://ducky0203.github.io/install_ios.png</string>
+					<string>https://raw.githubusercontent.com/ducky0203/ducky0203.github.io/master/gdv_icon.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>vn.tng.office.dev</string>
+				<string>vn.com.gomdatviet.shopping.test</string>
 				<key>bundle-version</key>
-				<string>20.12.17</string>
+				<string>1.8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>TNGOffice</string>
+				<string>GomDatViet</string>
 			</dict>
 		</dict>
 	</array>
